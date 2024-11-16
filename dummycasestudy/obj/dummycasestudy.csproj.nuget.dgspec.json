@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\dummycasestudy.csproj": {}
+    "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummygit\\dummycasestudy\\dummycasestudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\dummycasestudy.csproj": {
+    "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummygit\\dummycasestudy\\dummycasestudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\dummycasestudy.csproj",
+        "projectUniqueName": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummygit\\dummycasestudy\\dummycasestudy.csproj",
         "projectName": "dummycasestudy",
-        "projectPath": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\dummycasestudy.csproj",
+        "projectPath": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummygit\\dummycasestudy\\dummycasestudy.csproj",
         "packagesPath": "C:\\Users\\Sejal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\obj\\",
+        "outputPath": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummygit\\dummycasestudy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
