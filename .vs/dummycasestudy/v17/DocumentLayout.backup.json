@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\models\\bookcatalouge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\models\\bookcatalouge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\models\\genere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\models\\genere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|c:\\users\\sejal\\downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\models\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A654BCD3-E40C-49C1-835A-019ACD8F6A9F}|dummycasestudy\\dummycasestudy.csproj|solutionrelative:dummycasestudy\\models\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "dummycasestudy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:27:06.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fine.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\Fine.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Models\\Fine.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\Fine.cs",
+              "RelativeToolTip": "dummycasestudy\\Models\\Fine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:25:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\EFDbContext.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Models\\EFDbContext.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\EFDbContext.cs",
+              "RelativeToolTip": "dummycasestudy\\Models\\EFDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA+wBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:33:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genere.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\Genere.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Models\\Genere.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\Genere.cs",
+              "RelativeToolTip": "dummycasestudy\\Models\\Genere.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:33:38.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLog.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\UserLog.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Models\\UserLog.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\UserLog.cs",
+              "RelativeToolTip": "dummycasestudy\\Models\\UserLog.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:22:09.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\Inventory.cs",
+              "RelativeToolTip": "dummycasestudy\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:19:05.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCatalouge.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\BookCatalouge.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Models\\BookCatalouge.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\BookCatalouge.cs",
+              "RelativeToolTip": "dummycasestudy\\Models\\BookCatalouge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:15:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\User.cs",
+              "RelativeDocumentMoniker": "dummycasestudy\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\fdsdotnetclassexcercise\\dummycasestudy\\dummycasestudy\\Models\\User.cs",
+              "RelativeToolTip": "dummycasestudy\\Models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:10:29.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
