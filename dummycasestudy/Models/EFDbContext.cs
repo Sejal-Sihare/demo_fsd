@@ -60,6 +60,28 @@ namespace dummycasestudy.Models
                 entity.HasIndex(b => new { b.U_Id, b.B_Id }).IsUnique();
             });
 
+            //Many to one Reservation to User
+
+            modelBuilder.Entity<Reservation>()
+                .HasOne(s => s.User)
+                .WithMany(s => s.Reservations)
+                .HasForeignKey(s => s.U_Id)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            //many to one Reservation to Book
+            modelBuilder.Entity<Reservation>()
+                .HasOne(s => s.BookCatalouge)
+                .WithMany(s => s.Reservations)
+                .HasForeignKey(s => s.B_Id)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            //Many to one notification to user
+            modelBuilder.Entity<Notification>()
+              .HasOne(s => s.User)
+              .WithMany(s => s.Notifications)
+              .HasForeignKey(s => s.U_Id)
+              .OnDelete(DeleteBehavior.Cascade);
+
 
 
 

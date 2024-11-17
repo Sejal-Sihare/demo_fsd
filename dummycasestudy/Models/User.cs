@@ -28,5 +28,9 @@ namespace dummycasestudy.Models
 
         //Navigation Property
         public ICollection<Borrow>? Borrows { get; set; }
+
+        public ICollection<Reservation>? Reservations { get; set; }
+
+        public ICollection<Notification>? Notifications { get; set; }
     }
 }

@@ -35,6 +35,8 @@ namespace dummycasestudy.Models
         //book to Borrow many to one
         public ICollection<Borrow>? Borrows { get; set; }
 
+        public ICollection<Reservation>? Reservations { get; set; }
+
        
 
     }
